@@ -1,0 +1,7 @@
+{
+  "name": "Pang's Gesture System",
+  "description": "Interactive falling leaves gesture control system with Swiss Style UI and MediaPipe integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
